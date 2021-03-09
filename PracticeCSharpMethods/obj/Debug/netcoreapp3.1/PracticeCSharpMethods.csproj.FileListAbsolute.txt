@@ -1,0 +1,13 @@
+C:\Users\Robert Colville\Desktop\Repos\PracticeCSharpMethods1\PracticeCSharpMethods\bin\Debug\netcoreapp3.1\PracticeCSharpMethods.exe
+C:\Users\Robert Colville\Desktop\Repos\PracticeCSharpMethods1\PracticeCSharpMethods\bin\Debug\netcoreapp3.1\PracticeCSharpMethods.deps.json
+C:\Users\Robert Colville\Desktop\Repos\PracticeCSharpMethods1\PracticeCSharpMethods\bin\Debug\netcoreapp3.1\PracticeCSharpMethods.runtimeconfig.json
+C:\Users\Robert Colville\Desktop\Repos\PracticeCSharpMethods1\PracticeCSharpMethods\bin\Debug\netcoreapp3.1\PracticeCSharpMethods.runtimeconfig.dev.json
+C:\Users\Robert Colville\Desktop\Repos\PracticeCSharpMethods1\PracticeCSharpMethods\bin\Debug\netcoreapp3.1\PracticeCSharpMethods.dll
+C:\Users\Robert Colville\Desktop\Repos\PracticeCSharpMethods1\PracticeCSharpMethods\bin\Debug\netcoreapp3.1\PracticeCSharpMethods.pdb
+C:\Users\Robert Colville\Desktop\Repos\PracticeCSharpMethods1\PracticeCSharpMethods\obj\Debug\netcoreapp3.1\PracticeCSharpMethods.csprojAssemblyReference.cache
+C:\Users\Robert Colville\Desktop\Repos\PracticeCSharpMethods1\PracticeCSharpMethods\obj\Debug\netcoreapp3.1\PracticeCSharpMethods.AssemblyInfoInputs.cache
+C:\Users\Robert Colville\Desktop\Repos\PracticeCSharpMethods1\PracticeCSharpMethods\obj\Debug\netcoreapp3.1\PracticeCSharpMethods.AssemblyInfo.cs
+C:\Users\Robert Colville\Desktop\Repos\PracticeCSharpMethods1\PracticeCSharpMethods\obj\Debug\netcoreapp3.1\PracticeCSharpMethods.csproj.CoreCompileInputs.cache
+C:\Users\Robert Colville\Desktop\Repos\PracticeCSharpMethods1\PracticeCSharpMethods\obj\Debug\netcoreapp3.1\PracticeCSharpMethods.dll
+C:\Users\Robert Colville\Desktop\Repos\PracticeCSharpMethods1\PracticeCSharpMethods\obj\Debug\netcoreapp3.1\PracticeCSharpMethods.pdb
+C:\Users\Robert Colville\Desktop\Repos\PracticeCSharpMethods1\PracticeCSharpMethods\obj\Debug\netcoreapp3.1\PracticeCSharpMethods.genruntimeconfig.cache
